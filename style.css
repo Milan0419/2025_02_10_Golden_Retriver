@@ -35,7 +35,7 @@ ul {
 
 /* listaelemek megjelenésének beállítása */
 li {
-	list-style-image:url('../kepek/mancs.png');		/* egyedi felsorolásjel beállítása */
+	list-style-image:url('/kepek/mancs.png');		/* egyedi felsorolásjel beállítása */
 	color:white;		/* fehér szövegszín */
 	margin-left:40px;	/* bal margó */
 	line-height:40px;	/* sor magasságának beállítása */
@@ -66,7 +66,7 @@ p.fontos {
 	margin-right:40px;		/* margó jobb oldalon */
 	background-color:darkred;	/* sötétvörös háttérszín*/
 	color:white;				/* fehér szövegszín*/
-	background-image:url('../kepek/mancs.png');	/* háttérkép beállítása*/
+	background-image:url('/kepek/mancs.png');	/* háttérkép beállítása*/
 	background-repeat:no-repeat;	/* ne ismétlődjön a háttérkép*/
 	background-position:0 20px;		/* a háttérkép pozíciója */
 	width:40%;				/* szélesség beállítása */
